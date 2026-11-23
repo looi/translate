@@ -1,0 +1,8 @@
+node_modules
+dist
+*.sqlite3
+.env
+.cache
+.vercel
+.output
+.DS_Store
